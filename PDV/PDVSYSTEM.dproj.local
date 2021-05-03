@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/27 09:56:49.000.184,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 09:59:16.000.676,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\login.dfm=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/27 09:59:16.000.676,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\login.pas=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 10:00:22.000.812,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDVSYSTEM.dproj=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/27 10:10:50.000.732,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\PDVSYSTEM.dproj=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDVSYSTEM.dproj</Transaction>
+    <Transaction>2021/05/02 16:54:55.343,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/05/02 16:55:31.361,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\Menu.pas=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2021/05/02 16:55:31.361,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\Menu.dfm=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
